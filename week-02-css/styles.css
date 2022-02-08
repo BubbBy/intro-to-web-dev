@@ -1,6 +1,12 @@
 /* Element selector that gives every p element a monospace font. */
+
+body {
+  background-color: black;
+}
+
 p {
   font-family: monospace;
+  color:  white;
 }
 
 /* Class selector that gives elements with this class a big bold style. */
