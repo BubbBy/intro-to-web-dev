@@ -1,13 +1,27 @@
 /* Element selector that gives every p element a monospace font. */
 
+#first {
+  color: red;
+}
+
+
+h1 {
+  color: whitesmoke;
+
+}
+
 body {
   background-color: black;
 }
 
 p {
   font-family: monospace;
+  font-size:  150%;
   color:  white;
+  background-color: lightskyblue;
 }
+
+
 
 /* Class selector that gives elements with this class a big bold style. */
 .big {
