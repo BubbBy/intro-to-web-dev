@@ -11,14 +11,19 @@ body {
 }
 
 p {
-  font-family: monospace;
+  font-family: cursive;
   font-size:  150%;
   color:  white;
   background-color: lightskyblue;
+
+  letter-spacing: 2px;
+
+
 }
 
 
 #first {
+
   color: mediumvioletred;
 }
 
